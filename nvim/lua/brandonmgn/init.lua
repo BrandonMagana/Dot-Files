@@ -1,0 +1,5 @@
+require("brandonmgn.packer")
+require("brandonmgn.plugins.catpuccin")
+require("brandonmgn.set")
+require("brandonmgn.remap")
+require("brandonmgn.plugins.nvimtree")
